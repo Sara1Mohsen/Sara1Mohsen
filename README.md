@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack Developer | Problem Solver | Tech Enthusiast<br>Crafting robust web applications from the frontend to the backend.<br><br>🔹 Skilled in React.js, js, Django, Node.js, and PostgreSQL.<br>🔹 Passionate about building seamless user experiences and scalable APIs.<br>🔹 Experienced with RESTful APIs, cloud deployment, and modern UI/UX practices.<br>🔹 Lifelong learner, open-source contributor, and code quality advocate.<br><br>🚀 Always ready for the next big challenge!
+💻 Full Stack Developer | Tech Enthusiast<br>Crafting robust web applications from the frontend to the backend.<br><br>🔹 Skilled in React.js, js, Django, Node.js, and PostgreSQL.<br>🔹 Passionate about building seamless user experiences and scalable APIs.<br>🔹 Experienced with RESTful APIs, cloud deployment, and modern UI/UX practices.<br>🔹 Lifelong learner, open-source contributor, and code quality advocate.<br><br>🚀 Always ready for the next big challenge!
 
 
 ## 🌐 Socials:
