@@ -1,4 +1,6 @@
 # 💫 About Me:
+[![Portifilo](https://img.shields.io/badge/portifilo-%23FF69B4.svg?logo=linkedin&logoColor=pink)](https://portifilo-nine.vercel.app/)
+
 💻 Full Stack Developer | Tech Enthusiast<br>Crafting robust web applications from the frontend to the backend.<br><br>🔹 Skilled in React.js, js, Django, and PostgreSQL.<br>🔹 Passionate about building seamless user experiences and scalable APIs.<br>🔹 Experienced with RESTful APIs and modern UI/UX practices.<br>🔹 Lifelong learner, open-source contributor, and code quality advocate.<br><br>🚀 Always ready for the next big challenge!
 
 
